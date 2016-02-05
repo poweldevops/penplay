@@ -5,6 +5,9 @@ Playpen repository.
 I seemed to have forgotten this vital piece of information.
 
 ## Conventions
+We can haz conventions plz?
+
+[palpawhine] : http://www.troll.me/images/grinning-emperor-palpatine/good-good-let-the-naming-convention-flow-through-you.jpg "Yeees... let it flow through you!"
 
 ### Function naming and format
 All functions must begin with valid verbs and should contain enough "action"
